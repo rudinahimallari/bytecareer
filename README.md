@@ -1,4 +1,3 @@
-# bytecareer
 Welcome to Byte Career!
 
 Purpose:
